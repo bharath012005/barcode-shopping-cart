@@ -1,0 +1,21 @@
+8901324003369,Sharpener,10
+8901057510028,Stappler pins,90
+5056561800332,raspberry pi,4900
+1004,Potato Chips Bag,50
+1005,Biscuit Pack,20
+1006,Ballpoint Pen,15
+1007,Cheese Puff Snacks,40
+1008,Instant Noodles,12
+1009,Chocolate Bar,45
+1010,Toothpaste Tube,85
+1011,Laundry Detergent,150
+1012,Tea Leaves Box,250
+1013,Dental Care,55
+1014,Fresh Bread Loaf,35
+1015,Cookies Pack,30
+
+
+
+
+
+
